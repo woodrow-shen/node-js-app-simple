@@ -20,7 +20,7 @@
                 "mime-db": {
                   "version": "1.8.0",
                   "from": "mime-db@>=1.8.0 <1.9.0",
-                  "resolved": "http://174.129.255.150:4873/mime-db/-/mime-db-1.8.0.tgz"
+                  "resolved": "http://registry.npmjs.org/mime-db/-/mime-db-1.8.0.tgz"
                 }
               }
             },
@@ -199,7 +199,7 @@
                 "mime-db": {
                   "version": "1.8.0",
                   "from": "mime-db@>=1.8.0 <1.9.0",
-                  "resolved": "http://174.129.255.150:4873/mime-db/-/mime-db-1.8.0.tgz"
+                  "resolved": "http://registry.npmjs.org/mime-db/-/mime-db-1.8.0.tgz"
                 }
               }
             }
